@@ -1,0 +1,67 @@
+.banner{
+	text-align: center;
+}
+#navbar{
+	background-color: #4E9FF1 !important;
+}
+.bemvindo{
+	text-align: center;
+	margin-top: 20px;
+}
+.ul-drop{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f8f9fa!important;
+		text-decoration: none !important;
+		color:black !important;
+}
+
+.drop-li {
+    float: left;
+}
+
+.drop-li a, .dropbtn {
+    display: inline-block!important;
+    color: white!important;
+    text-align: center!important;
+    padding: 14px 16px!important;
+		text-decoration: none !important;
+		color:black !important;
+
+}
+
+.drop-li a:hover, .dropdown:hover .dropbtn {
+    background-color: gray;
+}
+
+.drop-li .dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none !important;
+    position: absolute !important;
+    background-color: #f9f9f9 !important;
+    min-width: 160px !important;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2) !important;
+    z-index: 1!important;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+#title{
+	text-align: center;
+}

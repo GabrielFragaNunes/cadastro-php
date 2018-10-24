@@ -1,0 +1,15 @@
+{
+    "name": "gabriel/dev-bd",
+    "description": "Cadastro thefixt com PDO",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gabriel",
+            "email": "gabrielfnunes1@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "4.1.3",
+        "components/jquery": "^3.3"
+    }
+}
